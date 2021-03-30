@@ -3,7 +3,7 @@
 
 .container {
   height: 500px;
-  width: 1500px;
+  width: 100%;
   background: #3d8ce6;
   position: relative;
 }
